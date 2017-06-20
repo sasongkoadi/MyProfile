@@ -1,3 +1,3 @@
 # MyProfile
-My firts app using react native
+My first app using react native
 
